@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/workshop/DataStructure/01 动态数组/01 动态数组.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+DynamicArray.h
+D:/workshop/DataStructure/01 动态数组/DynamicArray.h
+
+D:/workshop/DataStructure/01 动态数组/DynamicArray.c
+DynamicArray.h
+D:/workshop/DataStructure/01 动态数组/DynamicArray.h
+
+D:/workshop/DataStructure/01 动态数组/DynamicArray.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
