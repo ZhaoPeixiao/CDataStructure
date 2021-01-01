@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01 循环链表", "01 循环链表.vcxproj", "{3151F130-18A7-43BE-B74C-E79B24899C85}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02 约瑟夫问题", "..\02 约瑟夫问题\02 约瑟夫问题.vcxproj", "{521FC816-9EFC-4FB1-89A1-998AADB44EC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{3151F130-18A7-43BE-B74C-E79B24899C85}.Release|x64.Build.0 = Release|x64
 		{3151F130-18A7-43BE-B74C-E79B24899C85}.Release|x86.ActiveCfg = Release|Win32
 		{3151F130-18A7-43BE-B74C-E79B24899C85}.Release|x86.Build.0 = Release|Win32
+		{521FC816-9EFC-4FB1-89A1-998AADB44EC3}.Debug|x64.ActiveCfg = Debug|x64
+		{521FC816-9EFC-4FB1-89A1-998AADB44EC3}.Debug|x64.Build.0 = Debug|x64
+		{521FC816-9EFC-4FB1-89A1-998AADB44EC3}.Debug|x86.ActiveCfg = Debug|Win32
+		{521FC816-9EFC-4FB1-89A1-998AADB44EC3}.Debug|x86.Build.0 = Debug|Win32
+		{521FC816-9EFC-4FB1-89A1-998AADB44EC3}.Release|x64.ActiveCfg = Release|x64
+		{521FC816-9EFC-4FB1-89A1-998AADB44EC3}.Release|x64.Build.0 = Release|x64
+		{521FC816-9EFC-4FB1-89A1-998AADB44EC3}.Release|x86.ActiveCfg = Release|Win32
+		{521FC816-9EFC-4FB1-89A1-998AADB44EC3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
